@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     width: 220,
     height: 105,
-    marginBottom: 40
+    marginTop: 80,
   },
 
   container: {
